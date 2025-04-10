@@ -1,0 +1,12 @@
+Rapport d'Analyse ID: e0860beb-b31f-406d-94f2-b3b78e28b60d
+Pression Artérielle: None
+Fréquence Cardiaque: None bpm
+Taux de Filtration Glomérulaire: None mL/min
+Niveau de Créatinine: None mg/dL
+Niveau de Potassium: None mmol/L
+Niveau de Sodium: None mmol/L
+Poids: None kg
+Température Corporelle: None °C
+Saturation en Oxygène: None%
+Volume Urinaire: None mL
+Glycémie: None mg/dL
