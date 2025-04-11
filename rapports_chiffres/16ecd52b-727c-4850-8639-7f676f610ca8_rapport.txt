@@ -1,0 +1,12 @@
+Rapport d'Analyse ID: 16ecd52b-727c-4850-8639-7f676f610ca8
+Pression Artérielle: 116/79
+Fréquence Cardiaque: 66 bpm
+Taux de Filtration Glomérulaire: 90.77 mL/min
+Niveau de Créatinine: 1.07 mg/dL
+Niveau de Potassium: 4.47 mmol/L
+Niveau de Sodium: 139.97 mmol/L
+Poids: 71.4 kg
+Température Corporelle: 36.57 °C
+Saturation en Oxygène: 95.55%
+Volume Urinaire: 821.62 mL
+Glycémie: 93.06 mg/dL

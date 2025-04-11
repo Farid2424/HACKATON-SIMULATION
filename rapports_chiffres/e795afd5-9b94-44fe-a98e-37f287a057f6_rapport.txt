@@ -1,10 +1,11 @@
+Rapport d'Analyse ID: e795afd5-9b94-44fe-a98e-37f287a057f6
 Pression Artérielle: None
 Fréquence Cardiaque: None bpm
 Taux de Filtration Glomérulaire: None mL/min
 Niveau de Créatinine: None mg/dL
 Niveau de Potassium: None mmol/L
 Niveau de Sodium: None mmol/L
-Poids: None kg
+Poids: 80.94 kg
 Température Corporelle: None °C
 Saturation en Oxygène: None%
 Volume Urinaire: None mL

@@ -1,3 +1,4 @@
+
 import mysql.connector
 from faker import Faker
 import uuid
@@ -278,14 +279,14 @@ elif action == "2":
     report_text += f"Niveau de Créatinine: {report_data[3]} mg/dL\n"
     report_text += f"Niveau de Potassium: {report_data[4]} mmol/L\n"
     report_text += f"Niveau de Sodium: {report_data[5]} mmol/L\n"
-    report_text += f"Poids: {report_data[6]} kg\n"
+    report_text += f"Poids: {round(random.uniform(50.0, 90.0), 2)} kg\n"
     report_text += f"Température Corporelle: {report_data[7]} °C\n"
     report_text += f"Saturation en Oxygène: {report_data[8]}%\n"
     report_text += f"Volume Urinaire: {report_data[9]} mL\n"
     report_text += f"Glycémie: {report_data[10]} mg/dL\n"
 
     # Enregistrer dans le fichier
-    filename = f"{output_dir}/{__name__}_rapport.txt"
+    filename = f"{output_dir}/{report_id}_rapport.txt"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(report_text)
 

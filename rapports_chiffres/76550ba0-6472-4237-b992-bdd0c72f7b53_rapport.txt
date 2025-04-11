@@ -1,3 +1,4 @@
+Rapport d'Analyse ID: 76550ba0-6472-4237-b992-bdd0c72f7b53
 Pression Artérielle: None
 Fréquence Cardiaque: None bpm
 Taux de Filtration Glomérulaire: None mL/min
